@@ -1,4 +1,3 @@
-// import React from "react";
 import { MapPin } from "@phosphor-icons/react";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -22,12 +21,13 @@ export const Home = () => {
           </h1>
 
           <p className=" max-w-3xl mt-5 text-xl">
-            A skilled crossplatform Mobile developer with the focus on building
-            expectional digital products that are reliable, accessible, visually
-            appealing, and responsive with <i>React Native</i>. Aspiring to work
-            in a challenging competitive Blochchain company where I can utilize
+            A skilled crossplatform Mobile Developer with the focus on building
+            exceptional digital products that are reliable, accessible, visually
+            appealing and responsive with React Native. Aspiring to work in a
+            challenging and competitive Blockchain company, where I can utilize
             my knowledge and skill efficiently to contribute to the overall
-            organization goals and objective through hardwork and dedication
+            goals and objective of the organization through my hard work and 3
+            dedication.
           </p>
 
           <p className="mt-5 flex gap-1 items-center">

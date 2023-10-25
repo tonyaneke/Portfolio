@@ -54,9 +54,9 @@ export const GetInTouch = () => {
       </div>
       <h1 className="font-bold text-2xl mt-5">Get In Touch</h1>
       <p className="mt-3 max-w-xl text-left text-lg">
-        Ready for Pixel-Perfect, Cross-Platform Mobile Magic? Want apps that
-        truly shine? 📱✨ Slide into our DMs and let&apos;s transform your ideas
-        into reality!
+        Are you looking for Pixel-Perfect, Cross-Platform Mobile App? Want apps
+        that truly shine? 📱✨ Slide into my DMs and let&apos;s transform your
+        ideas into reality!
       </p>
       <p className="mt-5">
         <a

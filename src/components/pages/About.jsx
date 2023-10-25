@@ -25,39 +25,48 @@ export const About = () => {
 
         <div className="max-w-2xl" data-aos="fade-left">
           <h1 className="text-3xl font-bold">
-            Want to know more about me? Here you have it:
+            Want to know more about me? Here&apos;s more information:
           </h1>
 
           <p className="mt-5">
-            I&apos;m a React Native developer dedicated to providing advanced
-            mobile solutions using React Native technology. I am very passionate
-            about improving my coding skills & developing Web2.0 & Web3.0 mobile
+            I am a React Native Developer dedicated to providing advanced mobile
+            solutions using React Native technology. I am very passionate about
+            improving my coding skills and developing Web2.0 & Web3.0 mobile
             applications.
           </p>
 
           <p className="mt-5">
-            I began my journey as a front end developer in 2021, and since then,
-            I&apos;ve continued to grow and evolve as a developer, taking on new
-            challenges and learning latest technologies along the way. I build
-            mobile applications using modern technologies such as React Native
-            CLI or Expo, Tailwind, Redux, Paystack, Firebase, Typescript e.t.c.
+            I began my journey as a Front End Developer in 2021, and since then,
+            I have continued to grow and evolve as a Developer, taking on new
+            challenges and learning the latest technologies along the way. I
+            build mobile applications using modern technologies such as React
+            Native CLI or Expo, Tailwind, Redux, Paystack, Firebase, Typescript
+            and more.
           </p>
 
           <p className="mt-5">
-            {"I'm"} always looking for opportunities to contribute to open
-            source projects, and {"I'm"} always looking for opportunities to
-            learn new technologies.
+            I am always looking for opportunities to contribute to open source
+            projects and to learn new technologies.
           </p>
 
-          <p className="mt-5">Finally, more about me </p>
+          <p className="mt-5">Educational background:</p>
           <ul className="list-disc">
             <li>B.sc in Political Science</li>
-            <li>Certified React Native Developer</li>
+            <li>
+              Certified React Native Developer{" "}
+              <a
+                href="https://www.udemy.com/certificate/UC-8248ee72-2516-4843-a19e-27e1fa1424c4/"
+                className="text-blue-400 underline"
+              >
+                Credentials
+              </a>
+            </li>
           </ul>
 
           <p className="mt-5">
-            One last thing, I&apos;m available for work, so feel free to reach
-            out to me on any of the social media platforms below.
+            In conclusion, I am readily available for employment opportunities,
+            and I invite you to contact me through any of the social media
+            platforms listed below.
           </p>
 
           <div className="flex justify-center mt-5 gap-5">
